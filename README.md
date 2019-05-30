@@ -1,0 +1,2 @@
+# CSXSubstringToIndexEmoji
+表情，emoji通过字符串的substringToIndex剪切出现的非法字符问题解决类别
